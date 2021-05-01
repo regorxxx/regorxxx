@@ -4,7 +4,7 @@ I'm interested and contributing to free software, and particularly to audio rela
 
 
 ### Getting in touch
-<a href="regorxxx@protonmail.com" title="By Mail">
+<a href="mailto:regorxxx@protonmail.com" title="By Mail">
   <img
     width="40"
     alt="By Mail"
