@@ -14,8 +14,14 @@ I'm interested and contributing to free software, and particularly to audio rela
 <a href="https://hydrogenaud.io/index.php?action=profile;u=137872" title="At hydrogenaudio">
   <img
     width="250"
-    alt="At hydrogenaudio "
+    alt="At hydrogenaudio"
     src="https://raw.githubusercontent.com/regorxxx/regorxxx/master/assets/icons/Hydrogenaudio_logo_2003.svg"
 /></a>
 &nbsp;
 <noscript><a href="https://liberapay.com/regorxxx/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<a href="https://ko-fi.com/A0A24HJ4Q" title="At ko-fi">
+  <img
+    width="250"
+    alt="At ko-fi"
+    src="https://raw.githubusercontent.com/regorxxx/regorxxx/master/assets/icons/githubbutton_sm.svg"
+/></a>
