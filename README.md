@@ -14,11 +14,9 @@ I also write articles about life, web-development and machine learning.
 &nbsp;
 <a href="https://hydrogenaud.io/index.php?action=profile;u=137872" title="At hydrogenaudio">
   <img
-    width="40"
+    width="250"
     alt="At hydrogenaudio "
     src="https://raw.githubusercontent.com/regorxxx/regorxxx/master/assets/icons/Hydrogenaudio_logo_2003.svg"
 /></a>
 &nbsp;
 <noscript><a href="https://liberapay.com/regorxxx/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-
