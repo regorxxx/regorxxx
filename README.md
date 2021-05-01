@@ -1,8 +1,7 @@
-### Hi there 👋
-I'm Regorxxx. I work as a full-time software engineer. In my spare time I do open-sourcing (normally it is about 1-2 hours every day). 
-Most of my open-source projects below are focused on one thing - to help people learn 📚. 
-You may use these projects to learn about algorithms in JavaScript and get prepared for technical interviews, or to learn Python syntax and start experimenting with machine learning algorithms and math behind them, etc. 
-I also write articles about life, web-development and machine learning.
+### Hi there :)
+I'm Regorxxx. I work as a photographer. In my spare time I do open-sourcing (normally it is about 1-2 hours every day). 
+I'm interested and contributing to free software, and particularly to audio related software. Advocate of open-source and sharing, trying to offer similar features than network players and servers like Spotify, Itunes Genius, YouTube, etc. right in your system: online and using open data.
+
 
 ### Getting in touch
 <a href="regorxxx@protonmail.com" title="By Mail">
