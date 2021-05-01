@@ -1,6 +1,6 @@
 ### Hi there :)
 I'm Regorxxx. I work as a photographer. In my spare time I do open-sourcing (normally it is about 1-2 hours every day). 
-I'm interested and contributing to free software, and particularly to audio related software. Advocate of open-source and sharing, trying to offer similar features than network players and servers like Spotify, Itunes Genius, YouTube, etc. right in your system: online and using open data.
+I'm interested and contributing to free software, and particularly to audio related software. Advocate of open-source and sharing, trying to offer similar features than network players and servers like Spotify, Itunes Genius, YouTube, etc. right in your system: offline and using open data.
 
 
 ### Getting in touch
