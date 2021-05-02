@@ -18,11 +18,11 @@ I'm interested and contributing to free software, and particularly to audio rela
     src="https://raw.githubusercontent.com/regorxxx/regorxxx/master/assets/icons/Hydrogenaudio_logo_2003.svg"
 /></a>
 &nbsp;
-<a href="https://ko-fi.com/A0A24HJ4Q" title="Donate using ko-fi (paypal or cc)">
+<a href="https://ko-fi.com/A0A24HJ4Q" title="Donate using ko-fi (Paypal or Credit Card)">
   <img
     width="250"
     alt="At ko-fi"
     src="https://raw.githubusercontent.com/regorxxx/regorxxx/master/assets/icons/githubbutton_sm.svg"
 /></a>
 &nbsp;
-<noscript><a href="https://liberapay.com/regorxxx/donate"><img alt="Donate using Liberapay (requires account)" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/regorxxx/donate" title="Donate using Liberapay (requires account on web)"><img alt="Donate using Liberapay (requires account on web)" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
